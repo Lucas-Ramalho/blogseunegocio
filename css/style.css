@@ -1,0 +1,50 @@
+
+.cont1{
+  background-color: #0c6f3a;
+}
+
+.navbar-brand{
+  margin-right: 0;
+  padding-top: 1.3rem;
+  position: absolute;
+  right: 943px;
+}
+
+.nome{
+  width: 130px;
+}
+
+.money-fig{
+  width: 50px;
+  height: 50px;
+
+}
+
+#dropdownMenu2{
+  background-color: #0c6f3a;
+  border-color: #0c6f3a;
+  color: #fff;
+}
+
+hr{
+  border-bottom: 1px solid #0c6f3a;
+  border-top: 2px solid #0c6f3a;
+  height: 4px;
+}
+.blog-footer{
+  text-align: center;
+  margin: 50px auto 100px;
+}
+
+.color-section{
+  text-align: center;
+  margin: 100px auto 50px;
+}
+
+.col-md-9{
+  text-align: center;
+}
+
+.textomed{
+  text-align: left;
+}
